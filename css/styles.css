@@ -516,7 +516,7 @@ margin-bottom: 16px;
 /* <!--------- /MODAL-WINDOW---------> */
 /* <!--------- MODAL-FORM---------> */
 .modal-form-supsription {
-  margin-top: 32px;
+  padding-top: 32px;
   margin-bottom: 14px;
 }
 .modal-form {
